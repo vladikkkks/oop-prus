@@ -34,6 +34,6 @@
 ---
 
 ## Приклади запуску (Скріншот виводу програми)
-![alt text](image-1.png)
+![Виведення №1](images/image-1.png)
 
-![alt text](image-2.png)
+![Виведення №2](images/image-2.png)
