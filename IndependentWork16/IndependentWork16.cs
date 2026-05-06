@@ -105,7 +105,7 @@ namespace IndependentWork16
 
             // Тест 2: Успішний вхід
             Console.WriteLine("--- Тест 2: Коректні дані ---");
-            authService.Login("RCIT_Student", "super_secret_password");
+            authService.Login("RCITd_Student", "super_secret_password");
 
             Console.WriteLine("\nРоботу виконав: Прус Владислав, група ІПЗ-3/1");
             Console.ReadKey();
